@@ -1,6 +1,6 @@
 // 1---------------------------------------
 
-const saludo= (nombre)=>`Hola ${nombre}`;
+const saludo=(nombre)=>`Hola ${nombre}`;
 // Mostrar el resultado por consola
 console.log(saludo('Alejandro'));
 
